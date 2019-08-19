@@ -6,7 +6,7 @@
 
 ## Uso
 - Iniciar el archivo VDID.exe de la carpeta
-- Indicar como directorio de las imagenes que se guarden como web/imagenes/
+- Indicar como directorio de las imagenes que se guarden como `web/imagenes/`
 
 ## Contribución
 - Las solicitudes son bienvenidas. Para cambios importantes, abra primero un problema para discutir qué le gustaría cambiar.
